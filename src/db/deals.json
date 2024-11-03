@@ -1,0 +1,32 @@
+{
+  "deals": [
+    {
+      "id": "1",
+      "name": "Enterprise Network Infrastructure",
+      "company": "Caribbean Producers Jamaica Ltd",
+      "value": 125000,
+      "pipeline": "pre_approval",
+      "stage": "potential",
+      "owner": "E. Maurice Bailey",
+      "lastUpdated": "2024-03-15T10:00:00Z",
+      "description": "Complete network infrastructure upgrade including redundant fiber connections, new core switches, and wireless mesh network",
+      "priority": "high",
+      "activities": [
+        {
+          "id": "1a",
+          "type": "note",
+          "title": "Initial Meeting",
+          "description": "Met with IT Director to discuss infrastructure requirements",
+          "timestamp": "2024-03-14T10:00:00Z"
+        },
+        {
+          "id": "1b",
+          "type": "activity",
+          "title": "Site Survey Scheduled",
+          "description": "Team will conduct comprehensive site survey next week",
+          "timestamp": "2024-03-15T10:00:00Z"
+        }
+      ]
+    }
+  ]
+}
